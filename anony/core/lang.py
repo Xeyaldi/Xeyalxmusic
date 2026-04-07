@@ -23,7 +23,7 @@ lang_codes = {
     "pa": "ਪੰਜਾਬੀ",
     "pt": "Português",
     "ru": "Русский",
-    "en": "Englsh",
+    "en": "Engilsh",
     "zh": "中文"
 }
 
