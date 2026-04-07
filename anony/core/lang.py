@@ -12,9 +12,9 @@ from pyrogram import errors
 from anony import db, logger
 
 lang_codes = {
-    "ar": "العربية",
+    "az": "Azərbaycanca",
     "de": "Deutsch",
-    "en": "English",
+    "tr": "Türkce",
     "es": "Español",
     "fr": "Français",
     "hi": "हिन्दी",
@@ -23,7 +23,7 @@ lang_codes = {
     "pa": "ਪੰਜਾਬੀ",
     "pt": "Português",
     "ru": "Русский",
-    "tr": "Türkçe",
+    "en": "Englsh",
     "zh": "中文"
 }
 
